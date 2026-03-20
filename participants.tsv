@@ -1,2 +1,2 @@
-participant_id	species	sex
-sub-subject1	Mus musculus	U
+participant_id	original_participant_id	species	sex
+sub-subject1	sub-subject1	Mus musculus	U
