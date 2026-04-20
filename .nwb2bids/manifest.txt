@@ -3,6 +3,4 @@ dataset_description.json
 participants.tsv
 participants.json
 derivatives/dataset_description.json
-sub-subject1/sub-subject1_sessions.tsv
-sub-subject1/sub-subject1_sessions.json
-sub-subject1/ses-subject1_0/ecephys/sub-subject1_ses-subject1_0_ecephys.nwb
+sub-subject1/ecephys/sub-subject1_ecephys.nwb

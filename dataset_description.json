@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Direct upload of data from DataJoint's calcium imaging pipeline (element-calcium-imaging)",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Bakshi, Kushal"
+    ],
     "License": "CC0-1.0",
     "GeneratedBy": [
         {
